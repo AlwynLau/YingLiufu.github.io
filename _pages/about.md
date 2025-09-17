@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "CV of Ying Liufu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Ying Liufu received the B.E. degree in automation from Guangdong Ocean University, Zhanjiang, China, in 2020. I am currently working toward the Ph.D. degree in Computer Application Technology from Lanzhou University, Lanzhou, China. My current research interests include neural networks, intelligent computing, autonomous driving, robotics, and optimal control.
+Ying Liufu is currently working toward the Ph.D. degree in Computer Application Technology from Lanzhou University, Lanzhou, China. His current research interests include neural networks, intelligent computing, autonomous driving, robotics, and optimal control.
 
 Publications
 ======
@@ -35,12 +35,12 @@ Patents
 
 Projects
 ======
-1.	国家自然科学基金青年学生基础研究项目（博士研究生），面向带噪时变优化问题实时求解的神经动力学方法，30万元，在研，主持
-2.	中国科协青年人才托举工程博士生专项，4万元，在研，主持
-3.	甘肃省自然科学基金优秀博士生项目，噪声扰动下改进的神经动力学非线性优化模型及应用，4万元，在研，主持
-4.	中央高校基本科研业务费专项资金，复合型工业质检卡控机器人的设计与实现，2万元，在研，主持
-5.	甘肃省科技厅创新之星博士生项目，面向无人车非线性系统的抗扰动优化控制方法研究，1万元，在研，主持
-6.	甘肃省科技厅创新之星研究生项目，基于视觉AI与激光SLAM的双臂医护机器人的设计，0.5万元，已结题，主持
+1.	2024年获批国家自然科学基金青年学生基础研究项目（博士研究生）, 在研，主持
+2.	2024年获批中国科协青年人才托举工程博士生专项，在研，主持
+3.	2023年获批甘肃省自然科学基金优秀博士生项目，在研，主持
+4.	2023年获批中央高校基本科研业务费专项资金，已结题，主持
+5.	2025年获批甘肃省科技厅创新之星博士生项目，在研，主持
+6.	2022年获批甘肃省科技厅创新之星研究生项目，已结题，主持
 
 Honors & Awards
 ======
@@ -61,4 +61,4 @@ Academic Activity
 1.  2025年08月担任The 19th International Symposium on Neural Networks (ISNN 2025) session chairs
 2.	2025年04月担任第十八届中国电子信息年会“人工智能赋能先进射频技术”专题论坛学术助理
 3.	2024年11月于13th International Workshop on Mathematical Models and their Applications 国际会议做主题演讲报告
-4.	担任多个国际期刊及会议审稿人：IEEE Trans. Ind. Electron., IEEE Trans Ind. Informat., IEEE/CAA J. Automatica Sinica, IEEE Trans Intell. Veh., IEEE Conference on Systems, Man, and Cybernetics …
+4.	担任多个国际期刊及会议审稿人：IEEE Trans. Ind. Electron., IEEE Trans Ind. Informat., IEEE/CAA J. Automatica Sinica, IEEE Trans Intell. Veh., ISNN, IEEE Conference on Systems, Man, and Cybernetics……
