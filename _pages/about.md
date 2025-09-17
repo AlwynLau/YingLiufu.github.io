@@ -11,16 +11,21 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Publications
+1. Y. Liufu, L. Jin*, and S. Li, “Adaptive Noise-Learning Differential Neural Solution for Time-Dependent Equality-Constrained Quadratic Optimization”, IEEE Transactions on Neural Networks and Learning Systems, to be published, doi: 10.1109/TNNLS.2025.3561415. (中科院一区, IF=10.2, 第一作者)
+2. Y. Liufu, L. Jin*, and Y. Guan, “Collaborative Physics-Informed Neural Dynamics Approach for Autonomous Vehicles With Nonconvex Safety-Critical Constraints,” IEEE Transactions on Intelligent Transportation Systems, to be published, doi: 10.1109/TITS.2025.3572336. (中科院二区, IF=7.9, 第一作者)
+3. Y. Liufu, Z. Yu, and L. Jin*, “Robust Predictive Steering Control for Autonomous Vehicles With Polynomial Noise Resilience Neural Dynamics,” IEEE Transactions on Intelligent Vehicles, to be published, doi: 10.1109/TIV.2024.3507011. (中科院一区, IF=14, 第一作者)
+4. Y. Liufu, L. Jin*, and S. Li, “Modified Gradient Projection Neural Network for Multiset Constrained Optimization,” IEEE Transactions on Industrial Informatics, vol. 19, no. 9, pp. 9413-9423, Sept. 2023. (中科院一区, IF=11.7, 第一作者)
+5. Y. Liufu, L. Jin*, J. Xu, X. Xiao, and D. Fu, “Reformative Noise-Immune Neural Network for Equality-Constrained Optimization Applied to Image Target Detection,” IEEE Transactions on Emerging Topics in Computing, vol. 10, no. 2, pp. 973-984, Apr. 2022. (中科院二区, IF=5.1, 第一作者)
+6. Y. Liufu, L. Jin* et al., “ACP-Incorporated Perturbation-Resistant Neural Dynamics Controller for Autonomous Vehicles,” IEEE Transactions on Intelligent Vehicles, vol. 9, no. 4, pp. 4675-4686, April 2024. (中科院一区, IF=14, 第一作者, ESI高被引)
+7. Y. Liufu and Y. Guan, “Majorization-Minimization-Based Neural Dynamics for Time-Variant Optimization Under Multi-Set Constraints”, IEEE/CAA Journal of Automatica Sinica, to be published, 2025. (中科院一区, IF=19.2, 第一作者)
+8. L. Jin*, Y. Liufu, H. Lu, and Z. Zhang, “Saturation-Allowed Neural Dynamics Applied to Perturbed Time-Dependent System of Linear Equations and Robots,” IEEE Transactions on Industrial Electronics, vol. 68, no. 10, pp. 9844-9854, Oct. 2021. (中科院一区, IF=7.5, 学生一作) 
+9. M. Liu, Y. Liufu, H. Lu, and M. Shang, “Neural Solution to Dynamic Overdetermined System With Applications to Data Fitting and Parameters Estimation,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 12, pp. 7330-7341, Dec. 2023. (中科院一区, IF=8.6, 学生一作)
+10. M. Liu, J. Li, Y. Liufu, W. Duan, X. Xiao, and L. Jin*, “Noise-Rejection Zeroing Dynamics for Control of Industrial Agitator Tank”, Nonlinear Dynamics, vol. 103, pp. 2581–2603, 2021. (中科院二区, IF=5.6)
+11. Y. Liufu, L. Jin*, M. Liu, and S. Li, “A Recommender Algorithm: Gradient Recurrent Neural Network Applied to Yang-Baxter-Like Equation,” 2020 International Conference on Data Mining Workshops (ICDMW), Sorrento, Italy, 2020, pp. 159-165. (EI, 第一作者, 获最佳论文提名奖)
+12. Y. Liufu, M. Liu, L. Jin*, and F.-Y. Wang, “Gradient Projection Differential Neural Solution for Quadratic Optimization with Quadratic Constraints: An ACP Perspective,” IEEE International Conference on Systems, Man, and Cybernetics (SMC), Hawaii, USA, 2023. (CCF C/EI, 第一作者)
+13. Y. Liufu, L. Jin*, and F.-Y. Wang, “Neural-Dynamics-Based Active Steering Control for Autonomous Vehicles with Noises,” 2024 IEEE Intelligent Vehicles Symposium (IV), Jeju Island, Korea, 2024, pp. 436-441. (EI/车辆顶会, 第一作者)
+14. 徐今强，刘付颖 等. 基于双目立体视觉避障的四旋翼飞行器设计[J]. 计算机测量与控制, 2020, 28(03): 183-186+191. (中文核心，学生一作)
 
 Getting started
 ======
