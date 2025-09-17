@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Mr. Ying Liufu"
 title_separator          : "-"
 name                     : &name "Ying Liufu"
 description              : &description "Ying Liufu academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "https://AlwynLau/YingLiufu.github.io"
 author:
   # Biographic information
   avatar           : "ylf.png"
-  name             : "Ying Liufu"
+  name             : "Ying Liufu 刘付颖 (复姓)"
   pronouns         : # example: "she/her"  
   bio              : "Welcome to my homepage"
   location         : "China"
