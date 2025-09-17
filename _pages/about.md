@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ying Liufu is currently working toward the Ph.D. degree in Computer Application Technology from Lanzhou University, Lanzhou, China. His current research interests include neural networks, intelligent computing, autonomous driving, robotics, and optimal control.
+Ying Liufu is currently working toward the Ph.D. degree in Computer Application Technology from Lanzhou University since 09/2022, Lanzhou, China. His current research interests include neural networks, intelligent computing, autonomous driving, robotics, and optimal control.
 
 Publications
 ======
@@ -58,7 +58,7 @@ Honors & Awards
     
 Academic Activity
 ======
-1.  2025年08月担任The 19th International Symposium on Neural Networks (ISNN 2025) session chairs
+1.  2025年08月担任19th International Symposium on Neural Networks (ISNN 2025) session chairs
 2.	2025年04月担任第十八届中国电子信息年会“人工智能赋能先进射频技术”专题论坛学术助理
 3.	2024年11月于13th International Workshop on Mathematical Models and their Applications 国际会议做主题演讲报告
 4.	担任多个国际期刊及会议审稿人：IEEE Trans. Ind. Electron., IEEE Trans Ind. Informat., IEEE/CAA J. Automatica Sinica, IEEE Trans Intell. Veh., ISNN, IEEE Conference on Systems, Man, and Cybernetics……
