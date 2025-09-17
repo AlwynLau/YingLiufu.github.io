@@ -30,7 +30,17 @@ author_profile: true
 2. Y. Liufu, L. Jin*, and Y. Guan, *Collaborative Physics-Informed Neural Dynamics Approach for Autonomous Vehicles With Nonconvex Safety-Critical Constraints*, **IEEE TITS**, doi:10.1109/TITS.2025.3572336. (二区, IF=7.9, 第一作者)  
 3. Y. Liufu, Z. Yu, and L. Jin*, *Robust Predictive Steering Control for Autonomous Vehicles With Polynomial Noise Resilience Neural Dynamics*, **IEEE TIV**, doi:10.1109/TIV.2024.3507011. (一区, IF=14, 第一作者)  
 4. Y. Liufu, L. Jin*, and S. Li, *Modified Gradient Projection Neural Network for Multiset Constrained Optimization*, **IEEE TII**, 19(9):9413–9423, 2023. (一区, IF=11.7, 第一作者)  
-5. … *(完整论文列表可继续补充，建议分为 “已发表” 与 “在审稿” 两部分)*  
+5. Y. Liufu, L. Jin*, J. Xu, X. Xiao, and D. Fu, “Reformative Noise-Immune Neural Network for Equality-Constrained Optimization Applied to Image Target Detection,” IEEE Transactions on Emerging Topics in Computing, vol. 10, no. 2, pp. 973-984, Apr. 2022. (中科院二区, IF=5.1, 第一作者)
+6. Y. Liufu, L. Jin* et al., “ACP-Incorporated Perturbation-Resistant Neural Dynamics Controller for Autonomous Vehicles,” IEEE Transactions on Intelligent Vehicles, vol. 9, no. 4, pp. 4675-4686, April 2024. (中科院一区, IF=14, 第一作者, ESI高被引)
+7. Y. Liufu and Y. Guan, “Majorization-Minimization-Based Neural Dynamics for Time-Variant Optimization Under Multi-Set Constraints”, IEEE/CAA Journal of Automatica Sinica, to be published, 2025. (中科院一区, IF=19.2, 第一作者)
+8. L. Jin*, Y. Liufu, H. Lu, and Z. Zhang, “Saturation-Allowed Neural Dynamics Applied to Perturbed Time-Dependent System of Linear Equations and Robots,” IEEE Transactions on Industrial Electronics, vol. 68, no. 10, pp. 9844-9854, Oct. 2021. (中科院一区, IF=7.5, 学生一作) 
+9. M. Liu, Y. Liufu, H. Lu, and M. Shang, “Neural Solution to Dynamic Overdetermined System With Applications to Data Fitting and Parameters Estimation,” IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 53, no. 12, pp. 7330-7341, Dec. 2023. (中科院一区, IF=8.6, 学生一作)
+10. M. Liu, J. Li, Y. Liufu, W. Duan, X. Xiao, and L. Jin*, “Noise-Rejection Zeroing Dynamics for Control of Industrial Agitator Tank”, Nonlinear Dynamics, vol. 103, pp. 2581–2603, 2021. (中科院二区, IF=5.6)
+11. Y. Liufu, L. Jin*, M. Liu, and S. Li, “A Recommender Algorithm: Gradient Recurrent Neural Network Applied to Yang-Baxter-Like Equation,” 2020 International Conference on Data Mining Workshops (ICDMW), Sorrento, Italy, 2020, pp. 159-165. (EI, 第一作者, 获最佳论文提名奖)
+12. Y. Liufu, M. Liu, L. Jin*, and F.-Y. Wang, “Gradient Projection Differential Neural Solution for Quadratic Optimization with Quadratic Constraints: An ACP Perspective,” IEEE International Conference on Systems, Man, and Cybernetics (SMC), Hawaii, USA, 2023. (CCF C/EI, 第一作者)
+13. Y. Liufu, L. Jin*, and F.-Y. Wang, “Neural-Dynamics-Based Active Steering Control for Autonomous Vehicles with Noises,” 2024 IEEE Intelligent Vehicles Symposium (IV), Jeju Island, Korea, 2024, pp. 436-441. (EI/车辆顶会, 第一作者)
+14. 徐今强，刘付颖 等. 基于双目立体视觉避障的四旋翼飞行器设计[J]. 计算机测量与控制, 2020, 28(03): 183-186+191. (中文核心，学生一作)
+
 
 ---
 
@@ -73,5 +83,4 @@ author_profile: true
 
 ---
 
-> 📌 完整论文与科研详情请见 [Publications](/publications), [Talks](/talks), [Projects](/portfolio).
 
