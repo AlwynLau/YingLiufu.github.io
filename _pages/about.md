@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Ying Liufu is currently working toward the Ph.D. degree in Computer Application Technology from Lanzhou University since 09/2022, Lanzhou, China. His current research interests include neural networks, intelligent computing, autonomous driving, robotics, and optimal control.
+Ying Liufu is currently working toward the Ph.D. degree in Computer Application Technology from Lanzhou University since 09/2022, Lanzhou, China. 
+His supervisor is Prof. Long Jin. His current research interests include neural networks, intelligent computing, autonomous driving, robotics, and optimal control.
 
 Publications
 ======
@@ -44,9 +45,9 @@ Projects
 
 Honors & Awards
 ======
-1.	2025年获兰州大学隆基青年奖荣誉称号
+1.	2025年获兰州大学隆基青年奖章
 2.	2024年获博士研究生国家奖学金
-3.	2024年获甘肃省三好学生荣誉称号
+3.	2024年获省三好学生荣誉称号
 4.	2021-2024年获优秀研究生标兵、创新实践优秀个人、一等奖学金、刘冰奖学金、华为奖学金等荣誉奖励
 5.	2018-2019年获“恩智浦杯”全国大学生智能汽车竞赛华南赛区及西部赛区三等奖，教育部高等学校自动化类专业教学指导委员会
 6.	2020年获“ TI杯”全国大学生电子设计竞赛广东省一等奖、全国二等奖，全国大学生电子设计竞赛组织委员会
@@ -58,7 +59,7 @@ Honors & Awards
     
 Academic Activity
 ======
-1.  2025年08月担任19th International Symposium on Neural Networks (ISNN 2025) session chairs
+1.  2025年08月担任19th International Symposium on Neural Networks (ISNN 2025) session chair
 2.	2025年04月担任第十八届中国电子信息年会“人工智能赋能先进射频技术”专题论坛学术助理
 3.	2024年11月于13th International Workshop on Mathematical Models and their Applications 国际会议做主题演讲报告
 4.	担任多个国际期刊及会议审稿人：IEEE Trans. Ind. Electron., IEEE Trans Ind. Informat., IEEE/CAA J. Automatica Sinica, IEEE Trans Intell. Veh., ISNN, IEEE Conference on Systems, Man, and Cybernetics……
