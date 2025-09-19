@@ -57,7 +57,7 @@ Honors & Awards
 10.	2021年获“中信银行杯”中国研究生人工智能创新大赛全国三等奖，中国学位与研究生教育学会
 11.	2021年获第七届中国国际“互联网+”大学生创新创业大赛兰州大学金奖，甘肃省银奖，甘肃省教育厅
     
-Academic Activity
+Academic Activities
 ======
 1.  2025年08月担任19th International Symposium on Neural Networks (ISNN 2025) session chair
 2.	2025年04月担任第十八届中国电子信息年会“人工智能赋能先进射频技术”专题论坛学术助理
